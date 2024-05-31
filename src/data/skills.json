@@ -1,0 +1,110 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+
+  {
+    "title": "Bootstarp",
+    "imageSrc": "skills/bootstrap.png"
+  },
+
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/tailwindcss.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/javascript.png"
+  },
+
+  {
+    "title": "Typescript",
+    "imageSrc": "skills/typescript.png"
+  },
+  
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+
+  {
+    "title": "Express.js",
+    "imageSrc": "skills/expressjs.png"
+  },
+  {
+    "title": "GraphQL",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "skills/postgresql.png"
+  },
+  {
+    "title": "MERN",
+    "imageSrc": "skills/mern.png"
+  },  {
+    "title": "Next.js",
+    "imageSrc": "skills/nextjs.png"
+  },  {
+    "title": "Vitest",
+    "imageSrc": "skills/vitest.png"
+  },  {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
+  },  {
+    "title": "React Native",
+    "imageSrc": "skills/reactnative.png"
+  },  {
+    "title": "Electron",
+    "imageSrc": "skills/electron.png"
+  },
+  {
+    "title": "SEO",
+    "imageSrc": "skills/seo.png"
+  },  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },  {
+    "title": "Github",
+    "imageSrc": "skills/github.png"
+  },  {
+    "title": "Redux",
+    "imageSrc": "skills/redux.png"
+  },
+  {
+    "title": "Notion",
+    "imageSrc": "skills/notion.png"
+  },  {
+    "title": "MS Office",
+    "imageSrc": "skills/msoffice.png"
+  },    {
+    "title": "Chart.js",
+    "imageSrc": "skills/chartjs.png"
+  },
+
+  {
+    "title": "Wordpress",
+    "imageSrc": "skills/wordpress.png"
+  },
+  {
+    "title": "VS Code ",
+    "imageSrc": "skills/vscode.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+]
