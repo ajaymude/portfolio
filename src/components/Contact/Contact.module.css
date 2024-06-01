@@ -58,6 +58,24 @@
     align-items: center;
   }
 
+  .text h2 {
+    font-size: 32px;
+  }
+
+  .text p {
+    font-size: 24px;
+
+  }
+
+  .link {
+    gap: 16px;
+  }
+  .link a {
+    font-size: 16px;
+  }
+
+  
+
   .links {
     align-items: center;
   }
