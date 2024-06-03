@@ -338,6 +338,77 @@
     "skills": ["Typescript"],
     "demo": "https://www.udemy.com/certificate/UC-db8f4f5c-3f5f-4414-a9b7-f86351b8f91f/"
   }
+  ,
+  {
+    "title": "Certification No 51",
+    "imageSrc": "certificates/agile.jpg",
+    "skills": ["Agile"],
+    "demo": "https://www.udemy.com/certificate/UC-52af82dc-2653-4e54-9ead-c960c24dc5a6/"
+  }
+  ,
+  {
+    "title": "Certification No 52",
+    "imageSrc": "certificates/figma4.jpg",
+    "skills": ["Figma"],
+    "demo": "https://www.udemy.com/certificate/UC-948f8270-1f01-4466-bb62-573894ad331a/"
+  }
+  ,
+  {
+    "title": "Certification No 53",
+    "imageSrc": "certificates/aws3.jpg",
+    "skills": ["AWS E2"],
+    "demo": "https://www.udemy.com/certificate/UC-ebaa8de3-6a0b-4b5e-b695-50f89c015ed3/"
+  }
+  ,
+  {
+    "title": "Certification No 54",
+    "imageSrc": "certificates/sa1.jpg",
+    "skills": ["Software architecture"],
+    "demo": "https://www.udemy.com/certificate/UC-738ae037-fcc1-4f3d-8799-24abd541171a/"
+  }
+  ,
+  {
+    "title": "Certification No 50",
+    "imageSrc": "certificates/ts2.jpg",
+    "skills": ["Typescript"],
+    "demo": "https://www.udemy.com/certificate/UC-db8f4f5c-3f5f-4414-a9b7-f86351b8f91f/"
+  }
+  ,
+  {
+    "title": "Certification No 50",
+    "imageSrc": "certificates/ts2.jpg",
+    "skills": ["Typescript"],
+    "demo": "https://www.udemy.com/certificate/UC-db8f4f5c-3f5f-4414-a9b7-f86351b8f91f/"
+  }
+  ,
+  {
+    "title": "Certification No 50",
+    "imageSrc": "certificates/ts2.jpg",
+    "skills": ["Typescript"],
+    "demo": "https://www.udemy.com/certificate/UC-db8f4f5c-3f5f-4414-a9b7-f86351b8f91f/"
+  }
+  ,
+  {
+    "title": "Certification No 50",
+    "imageSrc": "certificates/ts2.jpg",
+    "skills": ["Typescript"],
+    "demo": "https://www.udemy.com/certificate/UC-db8f4f5c-3f5f-4414-a9b7-f86351b8f91f/"
+  }
+  ,
+  {
+    "title": "Certification No 50",
+    "imageSrc": "certificates/ts2.jpg",
+    "skills": ["Typescript"],
+    "demo": "https://www.udemy.com/certificate/UC-db8f4f5c-3f5f-4414-a9b7-f86351b8f91f/"
+  }
+  ,
+  {
+    "title": "Certification No 50",
+    "imageSrc": "certificates/ts2.jpg",
+    "skills": ["Typescript"],
+    "demo": "https://www.udemy.com/certificate/UC-db8f4f5c-3f5f-4414-a9b7-f86351b8f91f/"
+  }
+
  
 
   
