@@ -17,10 +17,10 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/uidesign.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>UI UX Designer</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                Designed seamless and user-friendly interfaces, significantly
+                improving user interaction and engagement.
               </p>
             </div>
           </li>
@@ -29,8 +29,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+              Developed robust and responsive front-end applications, ensuring optimal performance and user satisfaction.
               </p>
             </div>
           </li>
@@ -39,8 +38,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+              Engineered scalable and efficient backend systems, enhancing application performance and reliability.
               </p>
             </div>
           </li>
@@ -48,14 +46,24 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/appdev.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>App Developer</h3>
+              <h3>Apps Developer</h3>
               <p>
-              Skilled in building speedy, efficient backend systems and APIs through mobile app development experience
+              Designed and built innovative mobile applications, delivering high-quality user experiences and functionality.
               </p>
             </div>
           </li>
 
+
           
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/devops.png")} alt="Server icon" />
+            <div className={styles.aboutItemText}>
+              <h3>DevOps</h3>
+              <p>
+              Implemented robust DevOps practices, automating workflows and optimizing deployment pipelines for faster and more reliable releases.
+              </p>
+            </div>
+          </li>
         </ul>
       </div>
     </section>

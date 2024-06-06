@@ -1,110 +1,176 @@
-[
+[ 
+  {
+  "title": "Figma",
+  "imageSrc": "skills/figma.png",
+  "category":"uiux"
+  },
+
+
+
   {
     "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "imageSrc": "skills/html.png",
+    "category":"frontend"
   },
   {
     "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "imageSrc": "skills/css.png",
+    "category":"frontend"
   },
 
   {
     "title": "Bootstarp",
-    "imageSrc": "skills/bootstrap.png"
+    "imageSrc": "skills/bootstrap.png",
+    "category":"frontend"
   },
 
   {
     "title": "Tailwind CSS",
-    "imageSrc": "skills/tailwindcss.png"
+    "imageSrc": "skills/tailwindcss.png",
+    "category":"frontend"
   },
   {
     "title": "Javascript",
-    "imageSrc": "skills/javascript.png"
+    "imageSrc": "skills/javascript.png",
+    "category":"frontend"
   },
 
   {
     "title": "Typescript",
-    "imageSrc": "skills/typescript.png"
+    "imageSrc": "skills/typescript.png",
+    "category":"frontend"
   },
   
   {
     "title": "React",
-    "imageSrc": "skills/react.png"
-  },
-  {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
+    "imageSrc": "skills/react.png",
+    "category":"frontend"
   },
 
+
+
+  {
+    "title": "Nodejs",
+    "imageSrc": "skills/node.png",
+    "category":"backend"
+
+  },
   {
     "title": "Express.js",
-    "imageSrc": "skills/expressjs.png"
+    "imageSrc": "skills/expressjs.png",
+    "category":"backend"
   },
   {
     "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "imageSrc": "skills/graphql.png",
+    "category":"backend"
   },
+
+
+
   {
     "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "imageSrc": "skills/mongodb.png",
+    "category":"database"
   },
   {
     "title": "PostgreSQL",
-    "imageSrc": "skills/postgresql.png"
+    "imageSrc": "skills/postgresql.png",
+    "category":"database"
   },
+
+
+
   {
     "title": "MERN",
-    "imageSrc": "skills/mern.png"
-  },  {
+    "imageSrc": "skills/mern.png",
+    "category":"fullstack"
+  }, 
+  {
     "title": "Next.js",
-    "imageSrc": "skills/nextjs.png"
-  },  {
+    "imageSrc": "skills/nextjs.png",
+    "category":"fullstack"
+  }, 
+
+
+
+  {
     "title": "Vitest",
-    "imageSrc": "skills/vitest.png"
-  },  {
+    "imageSrc": "skills/vitest.png",
+    "category":"quality"
+  }, 
+
+
+
+  {
     "title": "AWS",
-    "imageSrc": "skills/aws.png"
-  },  {
-    "title": "React Native",
-    "imageSrc": "skills/reactnative.png"
-  },  {
-    "title": "Electron",
-    "imageSrc": "skills/electron.png"
+    "imageSrc": "skills/aws.png",
+    "category":"devops"
   },
   {
-    "title": "SEO",
-    "imageSrc": "skills/seo.png"
-  },  {
     "title": "Git",
-    "imageSrc": "skills/git.png"
+    "imageSrc": "skills/git.png",
+    "category":"devops"
   },  {
     "title": "Github",
-    "imageSrc": "skills/github.png"
-  },  {
-    "title": "Redux",
-    "imageSrc": "skills/redux.png"
+    "imageSrc": "skills/github.png",
+    "category":"devops"
   },
+
+
+
   {
-    "title": "Notion",
-    "imageSrc": "skills/notion.png"
-  },  {
-    "title": "MS Office",
-    "imageSrc": "skills/msoffice.png"
-  },    {
-    "title": "Chart.js",
-    "imageSrc": "skills/chartjs.png"
+    "title": "React Native",
+    "imageSrc": "skills/reactnative.png",
+    "category":"apps"
+  }, 
+
+
+
+  {
+    "title": "Electron",
+    "imageSrc": "skills/electron.png",
+    "category":"desktop"
   },
+
+
+
+  {
+    "title": "SEO",
+    "imageSrc": "skills/seo.png",
+    "category":"marketing"
+  }, 
+  
 
   {
     "title": "Wordpress",
-    "imageSrc": "skills/wordpress.png"
+    "imageSrc": "skills/wordpress.png",
+    "category":"nocode"
+  },
+
+  
+  {
+    "title": "Redux",
+    "imageSrc": "skills/redux.png",
+    "category":"extra"
+  },
+  {
+    "title": "Notion",
+    "imageSrc": "skills/notion.png",
+    "category":"extra"
+  },  {
+    "title": "MS Office",
+    "imageSrc": "skills/msoffice.png",
+    "category":"extra"
+  },    {
+    "title": "Chart.js",
+    "imageSrc": "skills/chartjs.png",
+    "category":"extra"
   },
   {
     "title": "VS Code ",
-    "imageSrc": "skills/vscode.png"
-  },
-  {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "imageSrc": "skills/vscode.png",
+    "category":"extra"
   }
+
 ]
