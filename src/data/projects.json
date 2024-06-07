@@ -3,7 +3,7 @@
     "title": "Studytube",
     "imageSrc": "projects/studytube.png",
     "description": "Studytube aids English learning with instructional videos  exercises.",
-    "skills": ["React", "Express", "Node"],
+    "skills": ["React", "Express", "Node" , "MongoDB"],
     "demo": "https://englishtube.onrender.com/",
     "source": "https://github.com/ajaymude/EnglishTube"
   },
@@ -11,7 +11,7 @@
     "title": "Blog app",
     "imageSrc": "projects/blogapp.png",
     "description": "A blog app enables easy creation, sharing, and reading of blogs.",
-    "skills": ["React", "Express", "Node"],
+    "skills": ["React", "Express", "Node" ,"MongoDB"],
     "demo": "https://ajayblog.onrender.com/",
     "source": "https://github.com/ajaymude/mernblog"
   },

@@ -15,7 +15,7 @@ export const Hero = () => {
           experiences.
         </p>
         <div className={styles.link}>
-          <a href="mailto:mudeajayl@gmail.com" className={styles.contactBtn}>
+          <a href="mailto:mudeajay@gmail.com" className={styles.contactBtn}>
             Contact
           </a>
 
