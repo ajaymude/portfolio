@@ -15,48 +15,39 @@
   text-transform: uppercase;
   text-align: center;
   padding-bottom: 32px;
-}
-
-.content {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-evenly;
-  margin-top: 14px;
+  }
   
-}
+  .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-top: 14px;
+    }
+    
+    .skills {
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+      gap: 32px;
+  }
+  
+  .skill {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
 
-.skills {
-  width: 100%;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-evenly;
-  gap: 37px;
-
-
-}
-.skills h1{
-  border: 3px solid yellow;
-  display: block;
-  width: 100%;
-  text-align: center;
-  background-color: aquamarine;
-}
-
-.skill {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 11px;
-}
-
-.skillImageContainer {
+    }
+    
+    .skillImageContainer {
   background-color: var(--color-secondary);
   border-radius: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 120px;
-  height: 120px;
+  width: 64px;
+  height: 64px;
 }
 
 .skillImageContainer img {
@@ -75,7 +66,6 @@
   flex-direction: column;
   gap: 40px;
   margin-top: 16px;
-
 }
 
 .historyItem {
@@ -115,34 +105,9 @@
   margin-left: 17px;
 }
 
-@media screen and (max-width: 830px) {
-  .content {
-    flex-direction: column;
-    align-items: center;
-    gap: 34px;
-  }
+/* --------- button css start -------- */
 
-  .skills {
-    width: 100%;
-    flex-direction: row;
-    justify-content: space-evenly;
-  }
-  .skill {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 11px;
-    width: 25%;
-  }
-
-  .history {
-    width: 100%;
-    gap: 9px;
-    margin-top: 16px;
-  }
-}
-
-.buttongroup{
+.buttongroup {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
@@ -189,4 +154,105 @@
     rgb(31, 75, 178) 94.3%
   );
   transition: all 0.475s;
+}
+
+/* --------- button css end -------- */
+
+@media screen and (max-width: 830px) {
+  .container {
+    margin-top: 16px;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  .content {
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .title {
+    color: var(--color-text);
+    font-size: 24px;
+    font-weight: 700;
+    padding: 18px 0;
+  }
+
+  .skills {
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 8px;
+  }
+  .skill {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    width: 25%;
+  }
+
+  .skill p {
+    font-size: 16px;
+  }
+
+  .history {
+    width: 100%;
+    gap: 9px;
+    margin-top: 16px;
+  }
+
+
+  .historyItemDetails h3 {
+    font-size: 24px;
+  }
+  
+  .historyItemDetails p {
+    font-size: 16px; 
+   }
+  
+  .historyItemDetails ul {
+    font-size: 16px;
+  }
+
+  .buttongroup {
+    gap: 4px;
+  }
+
+  .button {
+    position: relative;
+    overflow: hidden;
+    height: 24px;
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .button:hover::before {
+    transform: scaleX(1);
+  }
+
+  .buttoncontent {
+    position: relative;
+    z-index: 1;
+  }
+
+  .button::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: scaleX(0);
+    transform-origin: 0 50%;
+    width: 100%;
+    height: inherit;
+    border-radius: inherit;
+    background: linear-gradient(
+      82.3deg,
+      rgba(150, 93, 233, 1) 10.8%,
+      rgb(31, 75, 178) 94.3%
+    );
+    transition: all 0.475s;
+  }
 }

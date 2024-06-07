@@ -9,6 +9,7 @@
   z-index: 1;
   margin-left: 10%;
   margin-right: 10%;
+
 }
 
 .title {
@@ -27,6 +28,7 @@
 
 .aboutImage {
   width: 35%;
+
 }
 
 .aboutItems {
@@ -69,8 +71,16 @@
 @media screen and (max-width: 830px) {
   .container {
     background-color: transparent;
-    padding-left: 0;
-    padding-right: 0;
+    padding: 16px 0;
+    border-radius: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 16px;
+  }
+
+  .title {
+    font-size: 24px;
+    text-align: center;
   }
 
   .content {
@@ -81,12 +91,25 @@
     display: none;
   }
 
-  .aboutItems {
-    margin-top: 29px;
+  .aboutItem h3 {
+    font-size: 24px;
+
+  }
+  
+  .aboutItem p {
+    font-size: 16px;
+  }
+ 
+  .aboutItem {
+    padding: 16px;
+    }
+    
+    .aboutItem {
+      padding-left: 0;
+      padding-right: 0;
   }
 
-  .aboutItem {
-    padding-left: 0;
-    padding-right: 0;
+  .aboutItems {
+    gap: 8px;
   }
 }
